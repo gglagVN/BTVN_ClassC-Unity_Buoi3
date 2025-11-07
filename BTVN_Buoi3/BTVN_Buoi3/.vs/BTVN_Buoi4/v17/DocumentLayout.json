@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi3\\BTVN_Buoi3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33031E65-BE92-4A01-A94D-0D76D85FDC9F}|BTVN_Buoi3\\BTVN_Buoi4.csproj|g:\\lap trinh .net\\btvn_buoi2\\btvn_buoi3\\btvn_buoi3\\btvn_buoi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33031E65-BE92-4A01-A94D-0D76D85FDC9F}|BTVN_Buoi3\\BTVN_Buoi4.csproj|solutionrelative:btvn_buoi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33031E65-BE92-4A01-A94D-0D76D85FDC9F}|BTVN_Buoi3\\BTVN_Buoi4.csproj|G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi3\\BTVN_Buoi3\\BTVN_Buoi3\\CONGNHAN.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33031E65-BE92-4A01-A94D-0D76D85FDC9F}|BTVN_Buoi3\\BTVN_Buoi4.csproj|solutionrelative:BTVN_Buoi3\\CONGNHAN.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33031E65-BE92-4A01-A94D-0D76D85FDC9F}|BTVN_Buoi3\\BTVN_Buoi4.csproj|G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi3\\BTVN_Buoi3\\BTVN_Buoi3\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33031E65-BE92-4A01-A94D-0D76D85FDC9F}|BTVN_Buoi3\\BTVN_Buoi4.csproj|solutionrelative:BTVN_Buoi3\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CONGNHAN.cs",
+              "DocumentMoniker": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi3\\BTVN_Buoi3\\BTVN_Buoi3\\CONGNHAN.cs",
+              "RelativeDocumentMoniker": "BTVN_Buoi3\\CONGNHAN.cs",
+              "ToolTip": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi3\\BTVN_Buoi3\\BTVN_Buoi3\\CONGNHAN.cs",
+              "RelativeToolTip": "BTVN_Buoi3\\CONGNHAN.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T16:16:25.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi3\\BTVN_Buoi3\\BTVN_Buoi3\\Person.cs",
+              "RelativeDocumentMoniker": "BTVN_Buoi3\\Person.cs",
+              "ToolTip": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi3\\BTVN_Buoi3\\BTVN_Buoi3\\Person.cs",
+              "RelativeToolTip": "BTVN_Buoi3\\Person.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T16:10:04.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi3\\BTVN_Buoi3\\BTVN_Buoi3\\Program.cs",
+              "RelativeDocumentMoniker": "BTVN_Buoi3\\Program.cs",
+              "ToolTip": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi3\\BTVN_Buoi3\\BTVN_Buoi3\\Program.cs",
+              "RelativeToolTip": "BTVN_Buoi3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T16:07:12.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

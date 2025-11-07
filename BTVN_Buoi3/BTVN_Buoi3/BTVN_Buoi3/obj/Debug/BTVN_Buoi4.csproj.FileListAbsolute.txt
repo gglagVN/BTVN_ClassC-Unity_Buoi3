@@ -1,0 +1,8 @@
+G:\Lap Trinh .NET\BTVN_Buoi2\BTVN_Buoi3\BTVN_Buoi3\BTVN_Buoi3\bin\Debug\BTVN_Buoi3.exe.config
+G:\Lap Trinh .NET\BTVN_Buoi2\BTVN_Buoi3\BTVN_Buoi3\BTVN_Buoi3\bin\Debug\BTVN_Buoi3.exe
+G:\Lap Trinh .NET\BTVN_Buoi2\BTVN_Buoi3\BTVN_Buoi3\BTVN_Buoi3\bin\Debug\BTVN_Buoi3.pdb
+G:\Lap Trinh .NET\BTVN_Buoi2\BTVN_Buoi3\BTVN_Buoi3\BTVN_Buoi3\obj\Debug\BTVN_Buoi4.csproj.AssemblyReference.cache
+G:\Lap Trinh .NET\BTVN_Buoi2\BTVN_Buoi3\BTVN_Buoi3\BTVN_Buoi3\obj\Debug\BTVN_Buoi4.csproj.CoreCompileInputs.cache
+G:\Lap Trinh .NET\BTVN_Buoi2\BTVN_Buoi3\BTVN_Buoi3\BTVN_Buoi3\obj\Debug\BTVN_Buoi3.exe
+G:\Lap Trinh .NET\BTVN_Buoi2\BTVN_Buoi3\BTVN_Buoi3\BTVN_Buoi3\obj\Debug\BTVN_Buoi3.pdb
+G:\Lap Trinh .NET\BTVN_Buoi2\BTVN_Buoi3\BTVN_Buoi3\BTVN_Buoi3\obj\Debug\BTVN_Buoi3.exe.config
