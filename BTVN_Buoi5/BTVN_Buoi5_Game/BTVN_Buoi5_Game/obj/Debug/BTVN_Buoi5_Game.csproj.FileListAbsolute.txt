@@ -1,0 +1,8 @@
+G:\Lap Trinh .NET\BTVN_Buoi2\BTVN_Buoi5\BTVN_Buoi5_Game\BTVN_Buoi5_Game\bin\Debug\BTVN_Buoi5_Game.exe.config
+G:\Lap Trinh .NET\BTVN_Buoi2\BTVN_Buoi5\BTVN_Buoi5_Game\BTVN_Buoi5_Game\bin\Debug\BTVN_Buoi5_Game.exe
+G:\Lap Trinh .NET\BTVN_Buoi2\BTVN_Buoi5\BTVN_Buoi5_Game\BTVN_Buoi5_Game\bin\Debug\BTVN_Buoi5_Game.pdb
+G:\Lap Trinh .NET\BTVN_Buoi2\BTVN_Buoi5\BTVN_Buoi5_Game\BTVN_Buoi5_Game\obj\Debug\BTVN_Buoi5_Game.csproj.AssemblyReference.cache
+G:\Lap Trinh .NET\BTVN_Buoi2\BTVN_Buoi5\BTVN_Buoi5_Game\BTVN_Buoi5_Game\obj\Debug\BTVN_Buoi5_Game.csproj.CoreCompileInputs.cache
+G:\Lap Trinh .NET\BTVN_Buoi2\BTVN_Buoi5\BTVN_Buoi5_Game\BTVN_Buoi5_Game\obj\Debug\BTVN_Buoi5_Game.exe
+G:\Lap Trinh .NET\BTVN_Buoi2\BTVN_Buoi5\BTVN_Buoi5_Game\BTVN_Buoi5_Game\obj\Debug\BTVN_Buoi5_Game.pdb
+G:\Lap Trinh .NET\BTVN_Buoi2\BTVN_Buoi5\BTVN_Buoi5_Game\BTVN_Buoi5_Game\obj\Debug\BTVN_Buoi5_Game.exe.config

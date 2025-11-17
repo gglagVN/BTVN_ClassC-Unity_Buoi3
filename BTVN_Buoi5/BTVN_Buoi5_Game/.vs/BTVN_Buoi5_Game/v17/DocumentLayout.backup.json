@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3221DEFF-468E-46C2-A329-456B896929DC}|BTVN_Buoi5_Game\\BTVN_Buoi5_Game.csproj|G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\btvn_buoi5_game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3221DEFF-468E-46C2-A329-456B896929DC}|BTVN_Buoi5_Game\\BTVN_Buoi5_Game.csproj|solutionrelative:btvn_buoi5_game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3221DEFF-468E-46C2-A329-456B896929DC}|BTVN_Buoi5_Game\\BTVN_Buoi5_Game.csproj|G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\btvn_buoi5_game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3221DEFF-468E-46C2-A329-456B896929DC}|BTVN_Buoi5_Game\\BTVN_Buoi5_Game.csproj|solutionrelative:btvn_buoi5_game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3221DEFF-468E-46C2-A329-456B896929DC}|BTVN_Buoi5_Game\\BTVN_Buoi5_Game.csproj|G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\btvn_buoi5_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3221DEFF-468E-46C2-A329-456B896929DC}|BTVN_Buoi5_Game\\BTVN_Buoi5_Game.csproj|solutionrelative:btvn_buoi5_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3221DEFF-468E-46C2-A329-456B896929DC}|BTVN_Buoi5_Game\\BTVN_Buoi5_Game.csproj|g:\\lap trinh .net\\btvn_buoi2\\btvn_buoi5\\btvn_buoi5_game\\btvn_buoi5_game\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3221DEFF-468E-46C2-A329-456B896929DC}|BTVN_Buoi5_Game\\BTVN_Buoi5_Game.csproj|solutionrelative:btvn_buoi5_game\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3221DEFF-468E-46C2-A329-456B896929DC}|BTVN_Buoi5_Game\\BTVN_Buoi5_Game.csproj|G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\btvn_buoi5_game\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3221DEFF-468E-46C2-A329-456B896929DC}|BTVN_Buoi5_Game\\BTVN_Buoi5_Game.csproj|solutionrelative:btvn_buoi5_game\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3221DEFF-468E-46C2-A329-456B896929DC}|BTVN_Buoi5_Game\\BTVN_Buoi5_Game.csproj|G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\btvn_buoi5_game\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3221DEFF-468E-46C2-A329-456B896929DC}|BTVN_Buoi5_Game\\BTVN_Buoi5_Game.csproj|solutionrelative:btvn_buoi5_game\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3221DEFF-468E-46C2-A329-456B896929DC}|BTVN_Buoi5_Game\\BTVN_Buoi5_Game.csproj|G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\btvn_buoi5_game\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3221DEFF-468E-46C2-A329-456B896929DC}|BTVN_Buoi5_Game\\BTVN_Buoi5_Game.csproj|solutionrelative:btvn_buoi5_game\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3221DEFF-468E-46C2-A329-456B896929DC}|BTVN_Buoi5_Game\\BTVN_Buoi5_Game.csproj|G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\btvn_buoi5_game\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3221DEFF-468E-46C2-A329-456B896929DC}|BTVN_Buoi5_Game\\BTVN_Buoi5_Game.csproj|solutionrelative:btvn_buoi5_game\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tile.cs",
+              "DocumentMoniker": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\BTVN_Buoi5_Game\\Tile.cs",
+              "RelativeDocumentMoniker": "BTVN_Buoi5_Game\\Tile.cs",
+              "ToolTip": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\BTVN_Buoi5_Game\\Tile.cs",
+              "RelativeToolTip": "BTVN_Buoi5_Game\\Tile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:23:07.713Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\BTVN_Buoi5_Game\\Program.cs",
+              "RelativeDocumentMoniker": "BTVN_Buoi5_Game\\Program.cs",
+              "ToolTip": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\BTVN_Buoi5_Game\\Program.cs",
+              "RelativeToolTip": "BTVN_Buoi5_Game\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:02:08.98Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\BTVN_Buoi5_Game\\Player.cs",
+              "RelativeDocumentMoniker": "BTVN_Buoi5_Game\\Player.cs",
+              "ToolTip": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\BTVN_Buoi5_Game\\Player.cs",
+              "RelativeToolTip": "BTVN_Buoi5_Game\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:22:16.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\BTVN_Buoi5_Game\\Enemy.cs",
+              "RelativeDocumentMoniker": "BTVN_Buoi5_Game\\Enemy.cs",
+              "ToolTip": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\BTVN_Buoi5_Game\\Enemy.cs",
+              "RelativeToolTip": "BTVN_Buoi5_Game\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:25:46.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\BTVN_Buoi5_Game\\GameManager.cs",
+              "RelativeDocumentMoniker": "BTVN_Buoi5_Game\\GameManager.cs",
+              "ToolTip": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\BTVN_Buoi5_Game\\GameManager.cs",
+              "RelativeToolTip": "BTVN_Buoi5_Game\\GameManager.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwFwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:30:11.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GridManager.cs",
+              "DocumentMoniker": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\BTVN_Buoi5_Game\\GridManager.cs",
+              "RelativeDocumentMoniker": "BTVN_Buoi5_Game\\GridManager.cs",
+              "ToolTip": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\BTVN_Buoi5_Game\\GridManager.cs",
+              "RelativeToolTip": "BTVN_Buoi5_Game\\GridManager.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwBQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:25:01.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\BTVN_Buoi5_Game\\Weapon.cs",
+              "RelativeDocumentMoniker": "BTVN_Buoi5_Game\\Weapon.cs",
+              "ToolTip": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\BTVN_Buoi5_Game\\Weapon.cs",
+              "RelativeToolTip": "BTVN_Buoi5_Game\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:28:48.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Character.cs",
+              "DocumentMoniker": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\BTVN_Buoi5_Game\\Character.cs",
+              "RelativeDocumentMoniker": "BTVN_Buoi5_Game\\Character.cs",
+              "ToolTip": "G:\\Lap Trinh .NET\\BTVN_Buoi2\\BTVN_Buoi5\\BTVN_Buoi5_Game\\BTVN_Buoi5_Game\\Character.cs",
+              "RelativeToolTip": "BTVN_Buoi5_Game\\Character.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wB8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:15:31.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
